@@ -43,7 +43,7 @@ We love your input! We want to make contributing to this project as easy and tra
     ```
 * Create a PR from our repo on Github.
 
-### Additional Notes
+### Additional Notes.
 * Follow the issue creation format.
 * Code should be properly commented to ensure it's readability.
 * If you've added code that should be tested, add tests as comments. 
